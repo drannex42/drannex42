@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**drannex42/drannex42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I tend to break things, usually for the greater good.*
 
-Here are some ideas to get you started:
+I am the Founder/CEO/President of [DNX Research](https://dnxresearch.com). We build fun toys to change the perception of reality. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer, Replicant, Hacker, Biopunk, Extropian, Inventor, Engineer, &c.
+
+Previously:
+- I was the co-founder of Activity+, one of the first social media analytics companies with a "smart" AI.
+- Founded CharityDrops.org, a non-profit donation bundler where we would split monthly donations amongst five new smaller rolling charities - maximizing everyones donations to the organisations that matter. 
+- Owner/Creator/CEO of MxMedia, a media comglomerate with over a dozen properties and blogs and boasted over a million subscribers reaching over 30-million people a month - without spending a cent on any sort of marketing for the five year we were in the world.
+- Founder/CEO/Developer of GoodPlatform.org, a grassroots communication and organising platform that had over 30k active users. 
