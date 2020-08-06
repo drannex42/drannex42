@@ -2,7 +2,8 @@
 
 *I tend to break things, usually for the greater good.*
 
-I am the Founder/CEO/President of [DNX Research](https://dnxresearch.com). We build fun toys to change the perception of reality. 
+I am the Founder/CEO/President of [DNX Research](https://dnxresearch.com). We develop new technologies that enable humans to accomplish extraordinary things.
+
 
 Developer, Replicant, Hacker, Biopunk, Extropian, Inventor, Engineer, &c.
 
