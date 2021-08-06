@@ -2,7 +2,7 @@
 
 *I tend to break things, usually for the greater good.*
 
-I am the Founder & CEO of [DNX Robotics](https://dnxrobotics.com). We build rovers for planet earth!
+I am the Founder & Executive Director of [DNX Robotics](https://dnxrobotics.com). We build rovers for planet earth!
 
 Developer, Replicant, Hacker, Biopunk, Extropian, Inventor, Engineer, &c.
 
