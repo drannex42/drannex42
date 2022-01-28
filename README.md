@@ -2,9 +2,9 @@
 
 *I tend to break things, usually for the greater good.*
 
-I am the Founder & Executive Director of [DNX Robotics](https://dnxrobotics.com). We build rovers for planet earth!
+I am the Founding Director of [DNX Robotics](https://dnxrobotics.com). Where we are Developing extraordinary technology for extraordinary people. 
 
-Developer, Replicant, Hacker, Biopunk, Extropian, Inventor, Engineer, &c.
+**[dnxrobotics.com](https://dnxrobotics.com) && [drannex42.com](https://drannex42.com)**
 
 ####  Previously:
 - I was the co-founder of Activity+, one of the first social media analytics companies.
