@@ -2,7 +2,7 @@
 
 *I tend to break things, usually for the greater good.*
 
-I am the Founding Director of [DNX Robotics](https://dnxrobotics.com). Where we are Developing extraordinary technology for extraordinary people. 
+I am the Founding Director of [DNX Robotics](https://dnxrobotics.com). We develop extraordinary technology for extraordinary people. 
 
 **[dnxrobotics.com](https://dnxrobotics.com) && [drannex42.com](https://drannex42.com)**
 
