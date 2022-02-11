@@ -1,6 +1,4 @@
-<p slign="center">
-<img width="100%" src="https://github.com/drannex42/drannex42/blob/master/tumblr_5402a664c428e8a398ab73c5dbae395e_61f6b6ae_2048.gif?raw=true">
-</p>
+<img src="https://github.com/drannex42/drannex42/blob/master/tumblr_5402a664c428e8a398ab73c5dbae395e_61f6b6ae_2048.gif?raw=true">
 
 *I tend to break things, usually for the greater good.*
 
