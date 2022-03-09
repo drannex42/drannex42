@@ -2,12 +2,14 @@
 
 *I tend to break things, usually for the greater good.*
 
-I am the Founding Director of The DNX Institute (DNXI), and the CEO of [DNX Robotics](https://dnxrobotics.com) :: Where we develop technological solutions to enable normal people to accomplish extraordinary things.
+Director of [DNXI.org](https://dnxi.org) (Discovery & Exploration Industries). We develop technology that enable others to accomplish extraordinary things.
 
-**[dnxrobotics.com](https://dnxrobotics.com) && [drannex42.com](https://drannex42.com)**
 
-####  Previously:
-- I was the co-founder of Activity+, one of the first social media analytics companies.
-- Founded CharityDrops.org, a non-profit donation bundler where we would split monthly donations amongst five new smaller rolling charities - maximizing everyones donations to the organisations that truly matter. 
-- Owner/Creator/CEO of MxMedia, a media comglomerate with over a dozen properties and over a million subscribers reaching 30million+ people a month - all without spending a cent on marketing.
-- Founder/CEO/Developer of GoodPlatform.org, a grassroots communication and organising platform that had over 30k active users. 
+## Previously:
+
+*Cofounder, Activity+*, one of the first social media predictive analytics companies.
+
+*Founder, IdeaDrops Inc*, a multi industry technology company consisting of:
+- *CharityDrops.org*, a non-profit donation bundler where we would split monthly donations amongst five new smaller rolling charities - maximizing everyones donations to the organisations that truly matter. 
+- *MxMedia*, a global media comglomerate with a million subscribers reaching over thirty million people a month - all without spending a cent on marketing.
+- *GoodPlatform.org*, a grassroots communication, fundraising, and organizing platform that had over 30k active users. 
