@@ -2,7 +2,7 @@
 
 *I tend to break things, usually for the greater good.*
 
-Transhumanist Roboticist & Director of [DNXI.org](https://dnxi.org) (Discovery & Exploration Industries). We develop technology that enable others to accomplish extraordinary things.
+Transhumanist Roboticist & Director of [DNX Industries](https://dnxi.org) (Discovery & Exploration Industries). We develop technology that enable others to accomplish extraordinary things.
 
 
 ## Previously:
