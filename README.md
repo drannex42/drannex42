@@ -1,1 +1,1 @@
-Roboticist & Director (CEO) of [DNX Industries](https://dnxi.org).
+Roboticist & Founding Director (CEO) of [DNX Industries](https://dnxi.org).
