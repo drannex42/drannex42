@@ -1,1 +1,1 @@
-Roboticist • DNX Industries CEO, an industrial robotics laboratory — https://dnxi.org.
+DNX Industries CEO, an industrial robotics laboratory — https://dnxi.org.
